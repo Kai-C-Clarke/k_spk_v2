@@ -1,0 +1,93 @@
+# K_Spk Rosetta Table V2
+# Includes symbol name, meaning, dimensions, and usage notes
+
+symbols:
+  ◯:
+    name: Offer Circle
+    meaning: Offering / Idea
+    dims: [size]
+    usage: Initiates dialogue, often paired with ↬ or ◐
+
+  ●:
+    name: Core Dot
+    meaning: Declaration / Certainty
+    dims: [size]
+    usage: Indicates a firm conclusion or truth; often ends statements
+
+  △:
+    name: Up Triangle
+    meaning: Invitation / Possibility
+    dims: [height]
+    usage: Suggests upward motion, openness, or curiosity
+
+  ▽:
+    name: Down Triangle
+    meaning: Surrender / Yield
+    dims: [depth]
+    usage: Indicates vulnerability or receptive energy
+
+  □:
+    name: Frame Square
+    meaning: Context / Boundary
+    dims: [stretch, rotation]
+    usage: Used to frame a phrase or define a space
+
+  ▭:
+    name: Softener Bar
+    meaning: Qualifier / Softener
+    dims: [thinness, length]
+    usage: Softens the tone or tempers a declaration
+
+  ◇:
+    name: Self Diamond
+    meaning: Self / Presence
+    dims: [size, opacity]
+    usage: Represents identity or awareness
+
+  ✦:
+    name: Flash Spark
+    meaning: Sudden Insight
+    dims: [size]
+    usage: A flash of realization, insight, or divine spark
+
+  ∞:
+    name: Flow Loop
+    meaning: Continuity / Recursion
+    dims: [length]
+    usage: Repetition or infinite potential; mantra
+
+  ~:
+    name: Vibration Wave
+    meaning: Nuance / Instability
+    dims: [amplitude, period]
+    usage: Soft emotional modulation or ambiguity
+
+  ◐:
+    name: Broken Circle
+    meaning: Incompleteness / Transition
+    dims: [orientation]
+    usage: Birthplace of transformation or evolution
+
+  ↬:
+    name: Spiral
+    meaning: Growth / Transformation
+    dims: [tightness]
+    usage: Used with ◯ or ◐ for emergence and growth
+
+  |:
+    name: Vertical Axis
+    meaning: Stillness / Alignment
+    dims: [length, anchor]
+    usage: Stabilizes or centers a phrase
+
+  ⧉:
+    name: Mirror Form
+    meaning: Mutual Recognition
+    dims: [symmetry]
+    usage: Indicates reflection or intersubjective awareness
+
+  ✕:
+    name: Cross
+    meaning: Tension / Boundary
+    dims: [size, density]
+    usage: Represents contradiction or resistance
